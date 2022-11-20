@@ -58,7 +58,7 @@
 * `ls`
 * `cd DaddyBomber`
 * `pip2 install -r requirements.txt`
-* `chmod +x DaddyBomber`
+* `chmod +x DaddyBomber.sh`
 * `./DaddyBomber.sh Or bash DaddyBomber.sh`
 
 ## INSTALLATION [Kali Linux] :
