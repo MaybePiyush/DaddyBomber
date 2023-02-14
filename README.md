@@ -54,7 +54,7 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/PiyushGarg0/DaddyBomber`
+* `git clone https://github.com/SexyPiyush/DaddyBomber`
 * `ls`
 * `cd DaddyBomber`
 * `pip2 install -r requirements.txt`
@@ -66,7 +66,7 @@
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/PiyushGarg0/DaddyBomber`
+* `git clone https://github.com/SexyPiyush/DaddyBomber`
 * `ls`
 * `Now in root permission do`
 * `cd DaddyBomber`
@@ -83,7 +83,7 @@
 * `brew install python3`
 * `sudo easy_install pip`
 * `sudo pip install --upgrade pip`
-* `git clone https://github.com/PiyushGarg0/DaddyBomber`
+* `git clone https://github.com/SexyPiyush/DaddyBomber`
 * `cd DaddyBomber`
 * `chmod +x DaddyBomber`
 * `bash DaddyBomber.sh`
@@ -103,11 +103,11 @@
  ## THANKS!  
    Enjoy ✔
  ## 
-    🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-        🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-        🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-        🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+    🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴
+        🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\
+        🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴
+        🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴
 
 
-# THANKS FOR USING! LOVE YOU 3000!🔴🔴🔴🔴✔
+# THANKS FOR USING! LOVE YOU!🔴🔴🔴🔴✔
 
