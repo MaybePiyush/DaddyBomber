@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="DaddyBomber"></a>
+  <a href="https://github.com/MaybePiyush/DaddyBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="DaddyBomber"></a>
   <br>
   DaddyBomber⚡⚡⚡
   
@@ -54,7 +54,7 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/SexyPiyush/DaddyBomber`
+* `git clone https://github.com/MaybePiyush/DaddyBomber`
 * `ls`
 * `cd DaddyBomber`
 * `pip2 install -r requirements.txt`
@@ -66,7 +66,7 @@
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/SexyPiyush/DaddyBomber`
+* `git clone https://github.com/MaybePiyush/DaddyBomber`
 * `ls`
 * `Now in root permission do`
 * `cd DaddyBomber`
@@ -83,7 +83,7 @@
 * `brew install python3`
 * `sudo easy_install pip`
 * `sudo pip install --upgrade pip`
-* `git clone https://github.com/SexyPiyush/DaddyBomber`
+* `git clone https://github.com/MaybePiyush/DaddyBomber`
 * `cd DaddyBomber`
 * `chmod +x DaddyBomber`
 * `bash DaddyBomber.sh`
