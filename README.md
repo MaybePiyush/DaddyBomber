@@ -1,10 +1,10 @@
-## DaddyBomber🔴🔴🔴🔴🔴🔴🔴🔴🔴
+## DaddyBomber⚡⚡⚡⚡⚡⚡⚡⚡
 
 <h1 align="center">
   <br>
   <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="DaddyBomber"></a>
   <br>
-  DaddyBomber🔴🔴🔴🔴
+  DaddyBomber⚡⚡⚡
   
 </h1>
 
@@ -94,7 +94,7 @@
   
   
 
-## LOVE YOU 3000!🔴
+## LOVE YOU 3000!⚡
 
   
 
@@ -109,5 +109,5 @@
         🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴
 
 
-# THANKS FOR USING! LOVE YOU!🔴🔴🔴🔴✔
+# THANKS FOR USING! LOVE YOU!⚡⚡⚡✔
 
