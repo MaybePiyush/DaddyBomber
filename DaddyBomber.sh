@@ -165,7 +165,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf DaddyBomber
-        https://github.com/PiyushGarg0/Daddy-Bomber
+        https://github.com/MaybePiyush/DaddyBomber
         cd DaddyBomber
         bash DaddyBomber.sh
        
